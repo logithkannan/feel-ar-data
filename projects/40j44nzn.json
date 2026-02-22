@@ -2,7 +2,20 @@
   "id": "40j44nzn",
   "name": "pr2",
   "triggerId": null,
-  "triggerUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/40j44nzn/1771788747111.jpeg",
+  "layers": [
+    {
+      "id": "8q19jsbp",
+      "type": "video",
+      "name": "2.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/40j44nzn/1771788761304.mp4",
+      "x": 166,
+      "y": 77,
+      "width": 200,
+      "height": 150,
+      "opacity": 1,
+      "rotation": 0
+    }
+  ],
   "createdAt": "2026-02-22T19:31:43.971Z"
 }
