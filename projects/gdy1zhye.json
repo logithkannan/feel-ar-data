@@ -2,7 +2,20 @@
   "id": "gdy1zhye",
   "name": "try-2",
   "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/gdy1zhye/targets.mind",
+  "layers": [
+    {
+      "id": "207quipv",
+      "type": "video",
+      "name": "2.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/gdy1zhye/1772911789643.mp4",
+      "x": 20,
+      "y": 20,
+      "width": 200,
+      "height": 150,
+      "opacity": 1,
+      "rotation": 0
+    }
+  ],
   "createdAt": "2026-03-07T19:24:25.878Z"
 }
