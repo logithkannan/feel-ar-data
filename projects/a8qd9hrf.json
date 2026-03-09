@@ -1,8 +1,21 @@
 {
   "id": "a8qd9hrf",
   "name": "try-3",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/a8qd9hrf/1773078281642.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/a8qd9hrf/targets.mind",
+  "layers": [
+    {
+      "id": "y49p1gmn",
+      "type": "video",
+      "name": "video.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/a8qd9hrf/1773078422594.mp4",
+      "x": 68,
+      "y": 52,
+      "width": 375,
+      "height": 243,
+      "opacity": 0.78,
+      "rotation": 0
+    }
+  ],
   "createdAt": "2026-03-09T16:59:49.459Z"
 }
