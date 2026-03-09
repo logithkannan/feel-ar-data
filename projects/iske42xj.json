@@ -1,8 +1,21 @@
 {
   "id": "iske42xj",
   "name": "try-3",
-  "triggerUrl": null,
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/iske42xj/1773073369161.jpeg",
   "mindFileUrl": null,
-  "layers": [],
+  "layers": [
+    {
+      "id": "z76anflx",
+      "type": "video",
+      "name": "video.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/iske42xj/1773073394097.mp4",
+      "x": 20,
+      "y": 20,
+      "width": 459,
+      "height": 273,
+      "opacity": 0.73,
+      "rotation": 0
+    }
+  ],
   "createdAt": "2026-03-09T16:22:07.779Z"
 }
