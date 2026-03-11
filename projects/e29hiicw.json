@@ -1,8 +1,23 @@
 {
   "id": "e29hiicw",
   "name": "Project-1",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/e29hiicw/1773253334965.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/e29hiicw/targets.mind",
+  "layers": [
+    {
+      "id": "k0xfuqoy",
+      "type": "video",
+      "name": "video.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/e29hiicw/1773253433070.mp4",
+      "x": 37,
+      "y": 40,
+      "width": 432,
+      "height": 270,
+      "opacity": 1,
+      "rotation": 0,
+      "isGreenScreen": false,
+      "chromaThreshold": 0.25
+    }
+  ],
   "createdAt": "2026-03-11T18:21:44.518Z"
 }
