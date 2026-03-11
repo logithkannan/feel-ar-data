@@ -1,8 +1,23 @@
 {
   "id": "oxbokdsd",
   "name": "Project-2",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/oxbokdsd/1773255123521.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/oxbokdsd/targets.mind",
+  "layers": [
+    {
+      "id": "djs5y2ex",
+      "type": "video",
+      "name": "sir.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/oxbokdsd/1773255424345.mp4",
+      "x": 23,
+      "y": 32,
+      "width": 444,
+      "height": 304,
+      "opacity": 1,
+      "rotation": 0,
+      "isGreenScreen": true,
+      "chromaThreshold": 0.35
+    }
+  ],
   "createdAt": "2026-03-11T18:51:46.084Z"
 }
