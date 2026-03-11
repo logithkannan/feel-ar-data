@@ -1,8 +1,21 @@
 {
   "id": "vg9y23bm",
   "name": "try-2",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/vg9y23bm/1773250856141.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/vg9y23bm/targets.mind",
+  "layers": [
+    {
+      "id": "jtcasthl",
+      "type": "video",
+      "name": "sir.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/vg9y23bm/1773250901759.mp4",
+      "x": 65,
+      "y": 58,
+      "width": 352,
+      "height": 247,
+      "opacity": 1,
+      "rotation": 0
+    }
+  ],
   "createdAt": "2026-03-11T17:40:04.989Z"
 }
