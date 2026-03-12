@@ -1,8 +1,23 @@
 {
   "id": "pjh8ocai",
   "name": "CSE",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/pjh8ocai/1773295662809.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/pjh8ocai/targets.mind",
+  "layers": [
+    {
+      "id": "5a4lu729",
+      "type": "video",
+      "name": "sir.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/pjh8ocai/1773295725004.mp4",
+      "x": 14,
+      "y": 18,
+      "width": 455,
+      "height": 317,
+      "opacity": 1,
+      "rotation": 0,
+      "isGreenScreen": true,
+      "chromaThreshold": 0.4
+    }
+  ],
   "createdAt": "2026-03-12T06:07:03.192Z"
 }
