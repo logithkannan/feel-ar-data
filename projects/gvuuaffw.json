@@ -1,8 +1,23 @@
 {
   "id": "gvuuaffw",
   "name": "Shyam-S",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/gvuuaffw/1773295333491.jpg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/gvuuaffw/targets.mind",
+  "layers": [
+    {
+      "id": "hpm7j89y",
+      "type": "video",
+      "name": "WhatsApp Video 2026-03-12 at 11.33.56 AM.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/gvuuaffw/1773295488630.mp4",
+      "x": 48,
+      "y": 37,
+      "width": 400,
+      "height": 268,
+      "opacity": 1,
+      "rotation": 0,
+      "isGreenScreen": false,
+      "chromaThreshold": 0.25
+    }
+  ],
   "createdAt": "2026-03-12T06:01:06.206Z"
 }
