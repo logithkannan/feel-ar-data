@@ -1,8 +1,23 @@
 {
   "id": "3pptb4t1",
   "name": "Mithran",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/3pptb4t1/1773506967949.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/3pptb4t1/targets.mind",
+  "layers": [
+    {
+      "id": "g560n9v6",
+      "type": "video",
+      "name": "mith.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/3pptb4t1/1773507016800.mp4",
+      "x": 49,
+      "y": 53,
+      "width": 365,
+      "height": 255,
+      "opacity": 1,
+      "rotation": 0,
+      "isGreenScreen": false,
+      "chromaThreshold": 0.25
+    }
+  ],
   "createdAt": "2026-03-14T16:45:27.705Z"
 }
