@@ -2,7 +2,46 @@
   "id": "isz5ooso",
   "name": "Roadmap",
   "type": "multi",
-  "targets": [],
-  "mindFileUrl": null,
+  "targets": [
+    {
+      "id": "2yytrevi",
+      "name": "Target 1",
+      "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/isz5ooso/1774504785753.jpeg",
+      "layers": [
+        {
+          "id": "74hylwb6",
+          "type": "video",
+          "name": "WhatsApp Video 2026-03-12 at 11.33.56 AM.mp4",
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/isz5ooso/1774504875726.mp4",
+          "x": 0,
+          "y": 0,
+          "width": 528,
+          "height": 422,
+          "opacity": 1,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "id": "eg8smixe",
+      "name": "Target 2",
+      "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/isz5ooso/1774504786942.jpeg",
+      "layers": [
+        {
+          "id": "1w3rlpnt",
+          "type": "video",
+          "name": "video.mp4",
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/isz5ooso/1774504875727.mp4",
+          "x": 0,
+          "y": 0,
+          "width": 581,
+          "height": 426,
+          "opacity": 1,
+          "rotation": 0
+        }
+      ]
+    }
+  ],
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/isz5ooso/targets.mind",
   "createdAt": "2026-03-26T05:59:14.756Z"
 }
