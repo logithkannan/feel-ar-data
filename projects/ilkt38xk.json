@@ -28,14 +28,14 @@
       "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/1774503660171.jpeg",
       "layers": [
         {
-          "id": "uqudu70f",
+          "id": "f6dimzij",
           "type": "video",
           "name": "video.mp4",
-          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/1774503710474.mp4",
-          "x": 68,
-          "y": 47,
-          "width": 382,
-          "height": 255,
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/1774504364638.mp4",
+          "x": 26,
+          "y": 49,
+          "width": 444,
+          "height": 258,
           "opacity": 1,
           "rotation": 0
         }
