@@ -2,7 +2,46 @@
   "id": "ilkt38xk",
   "name": "Trial",
   "type": "multi",
-  "targets": [],
-  "mindFileUrl": null,
+  "targets": [
+    {
+      "id": "zkw2ei5d",
+      "name": "Target 1",
+      "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/1774503658772.jpeg",
+      "layers": [
+        {
+          "id": "d1dexs74",
+          "type": "video",
+          "name": "sir.mp4",
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/1774503710474.mp4",
+          "x": 54,
+          "y": 36,
+          "width": 335,
+          "height": 245,
+          "opacity": 1,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "id": "egkqzago",
+      "name": "Target 2",
+      "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/1774503660171.jpeg",
+      "layers": [
+        {
+          "id": "uqudu70f",
+          "type": "video",
+          "name": "video.mp4",
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/1774503710474.mp4",
+          "x": 68,
+          "y": 47,
+          "width": 382,
+          "height": 255,
+          "opacity": 1,
+          "rotation": 0
+        }
+      ]
+    }
+  ],
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ilkt38xk/targets.mind",
   "createdAt": "2026-03-26T05:40:22.925Z"
 }
