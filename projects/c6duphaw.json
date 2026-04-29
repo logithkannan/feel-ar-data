@@ -2,7 +2,71 @@
   "id": "c6duphaw",
   "name": "AMCET",
   "type": "multi",
-  "targets": [],
-  "mindFileUrl": null,
+  "targets": [
+    {
+      "id": "vdqyzqhf",
+      "name": "Target 1",
+      "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/c6duphaw/1777486762001.jpeg",
+      "layers": [
+        {
+          "id": "ix7t2bux",
+          "type": "video",
+          "name": "amcet.mp4",
+          "url": "blob:https://logithkannan.github.io/09d7abcc-9d38-41b9-b56b-5ff5c956710e",
+          "x": 34,
+          "y": 26,
+          "width": 442,
+          "height": 294,
+          "opacity": 1,
+          "rotation": 0,
+          "isGreenScreen": false,
+          "chromaThreshold": 0.25
+        }
+      ]
+    },
+    {
+      "id": "pvzapoy5",
+      "name": "Target 2",
+      "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/c6duphaw/1777486769017.jpeg",
+      "layers": [
+        {
+          "id": "pwc28spw",
+          "type": "video",
+          "name": "amcet_left.mp4",
+          "url": "blob:https://logithkannan.github.io/1f3317b9-e285-43ff-bfd5-b3171225052b",
+          "x": 54,
+          "y": 41,
+          "width": 403,
+          "height": 274,
+          "opacity": 1,
+          "rotation": 0,
+          "isGreenScreen": false,
+          "chromaThreshold": 0.25
+        }
+      ]
+    },
+    {
+      "id": "oal4cc2i",
+      "name": "Target 3",
+      "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/c6duphaw/1777486772695.jpeg",
+      "layers": [
+        {
+          "id": "ll6xrxjo",
+          "type": "video",
+          "name": "amcet_right.mp4",
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/c6duphaw/1777486938189.mp4",
+          "x": 67,
+          "y": 55,
+          "width": 356,
+          "height": 240,
+          "opacity": 1,
+          "rotation": 0,
+          "isGreenScreen": false,
+          "chromaThreshold": 0.25
+        }
+      ]
+    }
+  ],
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/c6duphaw/targets.mind",
   "createdAt": "2026-04-29T18:16:20.798Z"
 }
