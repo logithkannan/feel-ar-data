@@ -7,13 +7,43 @@
       "id": "nrtivr1h",
       "name": "Target 1",
       "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ubkei8ar/1777484839475.jpeg",
-      "layers": []
+      "layers": [
+        {
+          "id": "3exzb14t",
+          "type": "video",
+          "name": "amcet.mp4",
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ubkei8ar/1777485279658.mp4",
+          "x": 40,
+          "y": 35,
+          "width": 420,
+          "height": 286,
+          "opacity": 1,
+          "rotation": 0,
+          "isGreenScreen": false,
+          "chromaThreshold": 0.25
+        }
+      ]
     },
     {
       "id": "uh5s5ma1",
       "name": "Target 2",
       "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ubkei8ar/1777484855556.jpeg",
-      "layers": []
+      "layers": [
+        {
+          "id": "69rlk5jz",
+          "type": "video",
+          "name": "amcet_left.mp4",
+          "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ubkei8ar/1777485279658.mp4",
+          "x": 33,
+          "y": 27,
+          "width": 425,
+          "height": 290,
+          "opacity": 1,
+          "rotation": 0,
+          "isGreenScreen": false,
+          "chromaThreshold": 0.25
+        }
+      ]
     },
     {
       "id": "sxqn5jo2",
@@ -25,10 +55,10 @@
           "type": "video",
           "name": "amcet_right.mp4",
           "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ubkei8ar/1777484945951.mp4",
-          "x": 177,
-          "y": 21,
-          "width": 305,
-          "height": 227,
+          "x": 33,
+          "y": 32,
+          "width": 421,
+          "height": 298,
           "opacity": 1,
           "rotation": 0,
           "isGreenScreen": false,
