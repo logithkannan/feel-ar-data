@@ -2,8 +2,23 @@
   "id": "ssi51mbh",
   "name": "amcet",
   "type": "single",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ssi51mbh/1777484558511.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ssi51mbh/targets.mind",
+  "layers": [
+    {
+      "id": "cbrfdbs9",
+      "type": "video",
+      "name": "amcet.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ssi51mbh/1777484595974.mp4",
+      "x": 20,
+      "y": 20,
+      "width": 458,
+      "height": 307,
+      "opacity": 1,
+      "rotation": 0,
+      "isGreenScreen": false,
+      "chromaThreshold": 0.25
+    }
+  ],
   "createdAt": "2026-04-29T17:42:27.178Z"
 }
