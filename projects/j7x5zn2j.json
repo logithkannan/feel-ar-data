@@ -6,19 +6,19 @@
   "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/j7x5zn2j/targets.mind",
   "layers": [
     {
-      "id": "lehw7zj6",
+      "id": "vrhyfeza",
       "type": "video",
-      "name": "sir.mp4",
-      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/j7x5zn2j/1781854459013.mp4",
-      "x": 60,
+      "name": "sample.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/j7x5zn2j/1781854750718.mp4",
+      "x": 108,
       "y": 20,
-      "width": 380,
-      "height": 296,
+      "width": 265,
+      "height": 281,
       "opacity": 1,
       "rotation": 0,
-      "chromaKey": true,
+      "chromaKey": false,
       "chromaColor": "#00ff00",
-      "chromaTolerance": 145
+      "chromaTolerance": 45
     }
   ],
   "createdAt": "2026-06-19T07:20:10.380Z"
