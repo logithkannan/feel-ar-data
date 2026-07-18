@@ -2,8 +2,21 @@
   "id": "ych86yg0",
   "name": "DEMO",
   "type": "single",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ych86yg0/1784369384524.jpeg",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ych86yg0/targets.mind",
+  "layers": [
+    {
+      "id": "747x9o4c",
+      "type": "video",
+      "name": "amcet.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/ych86yg0/1784369415785.mp4",
+      "x": 97,
+      "y": 20,
+      "width": 332,
+      "height": 261,
+      "opacity": 1,
+      "rotation": 0
+    }
+  ],
   "createdAt": "2026-07-18T10:08:51.055Z"
 }
