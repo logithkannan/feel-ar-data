@@ -2,8 +2,33 @@
   "id": "xeo8ulep",
   "name": "Power_lift",
   "type": "single",
-  "triggerUrl": null,
-  "mindFileUrl": null,
-  "layers": [],
+  "triggerUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/xeo8ulep/1786789583806.png",
+  "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/xeo8ulep/targets.mind",
+  "layers": [
+    {
+      "id": "8292laa4",
+      "type": "video",
+      "name": "WhatsApp Video 2026-08-15 at 3.06.09 PM.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/xeo8ulep/1786790843770.mp4",
+      "x": -5,
+      "y": 20,
+      "width": 535,
+      "height": 347,
+      "opacity": 1,
+      "rotation": 0
+    },
+    {
+      "id": "l622akwu",
+      "type": "image",
+      "name": "ChatGPT Image Aug 15, 2026, 03_10_55 PM.png",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/xeo8ulep/1786790849732.png",
+      "x": 20,
+      "y": 20,
+      "width": 200,
+      "height": 150,
+      "opacity": 1,
+      "rotation": 0
+    }
+  ],
   "createdAt": "2026-08-15T10:01:20.824Z"
 }
