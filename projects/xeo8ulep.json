@@ -6,14 +6,14 @@
   "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/xeo8ulep/targets.mind",
   "layers": [
     {
-      "id": "e5rsapbz",
+      "id": "bv42f66a",
       "type": "video",
-      "name": "WhatsApp Video 2026-08-15 at 3.06.09 PM.mp4",
-      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/xeo8ulep/1786791182145.mp4",
-      "x": -3,
-      "y": 20,
+      "name": "video.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/xeo8ulep/1786823093722.mp4",
+      "x": -1,
+      "y": 35,
       "width": 504,
-      "height": 367,
+      "height": 297,
       "opacity": 1,
       "rotation": 0
     }
