@@ -6,21 +6,21 @@
   "mindFileUrl": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/5sc92yyy/targets.mind",
   "layers": [
     {
-      "id": "95nsvth0",
+      "id": "gtm0aeme",
       "type": "video",
-      "name": "sir.mp4",
-      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/5sc92yyy/1787249309280.mp4",
-      "x": 40,
-      "y": -26,
-      "width": 419,
-      "height": 432,
+      "name": "test_1.mp4",
+      "url": "https://raw.githubusercontent.com/logithkannan/feel-ar-data/main/media/5sc92yyy/1787331972059.mp4",
+      "x": 27,
+      "y": 43,
+      "width": 437,
+      "height": 434,
       "opacity": 1,
       "rotation": 0,
       "greenScreen": {
         "enabled": true,
-        "keyColor": "#0cff18",
-        "tolerance": 0.31,
-        "softness": 0.4,
+        "keyColor": "#15602f",
+        "tolerance": 0.2,
+        "softness": 0.03,
         "spillReduction": 1
       }
     }
